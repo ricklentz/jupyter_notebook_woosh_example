@@ -1,0 +1,10 @@
+
+*.txt
+*.toc
+.ipynb_checkpoints/hello_whoosh-checkpoint.ipynb
+*.gz
+*.run
+*.col
+*.pst
+*.trm
+indexdir/MAIN_WRITELOCK
